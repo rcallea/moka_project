@@ -1,0 +1,3 @@
+class PensumController <  ApplicationController
+  
+end

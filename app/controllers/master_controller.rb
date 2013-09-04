@@ -1,0 +1,3 @@
+class MasterController < ApplicationController
+
+end
