@@ -4,6 +4,7 @@ class Course < ActiveRecord::Base
   belongs_to :master
   belongs_to :pensum
   belongs_to :planned_pensum
+  belongs_to :semester_registration
   
   
   field :name,         type: String
