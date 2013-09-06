@@ -4,6 +4,7 @@ source 'https://rubygems.org'
 gem 'rails', '4.0.0'
 gem 'pry'
 
+gem 'rails-erd' #install graphviz for this
 # non-sql database
 gem 'pg'
 gem 'devise'
