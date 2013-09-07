@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name: MyString
+  code: MyString
+  description: MyText
+  total_credits: 1
+  max_duration: 1
+  max_cred_semester: 1
+  max_cred_intersem: 1
+
+two:
+  name: MyString
+  code: MyString
+  description: MyText
+  total_credits: 1
+  max_duration: 1
+  max_cred_semester: 1
+  max_cred_intersem: 1

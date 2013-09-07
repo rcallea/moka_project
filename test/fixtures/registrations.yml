@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  begin_date: 2013-09-07
+  max_date_finish: 2013-09-07
+  total_approved_credits: 1
+
+two:
+  begin_date: 2013-09-07
+  max_date_finish: 2013-09-07
+  total_approved_credits: 1
